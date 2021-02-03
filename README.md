@@ -1,5 +1,4 @@
-# BunifiCrack
-Cracked Dlls of Bunifu C# Framework - WinForms
+Cracked Dlls of Bunifu C# Framework - WinForms (NuGet Version: 4.1.1)
 
 
 How to use?
